@@ -12,7 +12,7 @@ This project analyzes startup applications submitted under the **Bharat Startup 
 
 The original dataset consisted of multiple Excel workbooks containing inconsistent, duplicate, and unstructured startup application data. Using Power Query, the data was consolidated, cleaned, standardized, and transformed into a single analytical dataset.
 
-The final dataset was used to build an executive dashboard that provides meaningful business insights for startup applications across different challenges, startup stages, founder experience, and geographical distribution.
+The final dataset was used to build an executive dashboard that provides meaningful business insights for startup applications across different challenges, startup staages, founder experience, and geographical distribution.
 
 ---
 
@@ -115,7 +115,7 @@ Power Query was used to perform the complete ETL (Extract, Transform, Load) proc
 
 ## Power Query - Applied Steps
 
-![Applied Steps](Images/Applied%20Steps.png)
+![Applied Steps](Images/Applied-Steps.png)
 
 ---
 
